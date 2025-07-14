@@ -113,7 +113,7 @@ MIT License
 
 ## 🙌 Credits
 
-Built with ❤️ by [Your Name] using:
+Built with ❤️ by Charchit Sharma using:
 
 - Google Gemini API  
 - LangChain  
